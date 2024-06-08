@@ -1,0 +1,101 @@
+ProductID,ProductName,Description,Price,CategoryID,BrandID
+1,Nike Mercurial,Excellent ball control,216.07,3,2
+2,Adidas Predator,High performance football boots,202.95,3,2
+3,Puma Future,Great for casual games,151.35,1,2
+4,Nike Tiempo,Great for casual games,87.8,2,1
+5,Nike Phantom,Superior ground grip,143.16,2,1
+6,Adidas Nemeziz,Enhanced precision and stability,82.8,1,2
+7,Puma One,Great for casual games,141.84,1,1
+8,Nike Hypervenom,Excellent ball control,217.14,1,1
+9,Adidas X,Perfect for professional players,130.32,3,2
+10,Puma King,Durable and long-lasting,147.33,2,3
+11,Nike Magista,Superior ground grip,176.41,3,3
+12,Adidas Copa,Improved speed and agility,203.27,2,1
+13,Puma Spirit,Lightweight design,208.55,3,3
+14,Nike Vapor,Lightweight design,110.36,1,2
+15,Adidas Glitch,Comfortable and stylish,159.13,3,2
+16,Puma Tacto,Improved speed and agility,201.11,1,3
+17,Nike Phantom Venom,Superior ground grip,151.26,2,2
+18,Adidas Ace,Superior ground grip,208.34,2,3
+19,Puma EvoSpeed,Lightweight design,208.96,2,3
+20,Nike Legend,Comfortable and stylish,91.64,1,2
+21,Nike Mercurial,Excellent ball control,118.88,1,3
+22,Adidas Predator,Enhanced precision and stability,81.31,1,1
+23,Puma Future,Lightweight design,197.93,1,1
+24,Nike Tiempo,Enhanced precision and stability,170.6,1,3
+25,Nike Phantom,Durable and long-lasting,197.79,1,2
+26,Adidas Nemeziz,Great for casual games,117.06,2,2
+27,Puma One,High performance football boots,135.69,1,3
+28,Nike Hypervenom,Great for casual games,157.4,3,3
+29,Adidas X,Excellent ball control,103.09,3,2
+30,Puma King,High performance football boots,131.77,2,1
+31,Nike Magista,Perfect for professional players,100.5,2,3
+32,Adidas Copa,Great for casual games,159.75,2,1
+33,Puma Spirit,Lightweight design,178.52,3,3
+34,Nike Vapor,Comfortable and stylish,120.39,2,1
+35,Adidas Glitch,Great for casual games,140.66,2,3
+36,Puma Tacto,Great for casual games,185.85,1,2
+37,Nike Phantom Venom,Great for casual games,135.45,2,3
+38,Adidas Ace,Superior ground grip,205.45,3,2
+39,Puma EvoSpeed,High performance football boots,169.45,2,1
+40,Nike Legend,Comfortable and stylish,204.82,2,2
+41,Nike Mercurial,Enhanced precision and stability,175.21,1,2
+42,Adidas Predator,Enhanced precision and stability,142.89,1,3
+43,Puma Future,High performance football boots,217.0,2,3
+44,Nike Tiempo,Durable and long-lasting,96.27,2,1
+45,Nike Phantom,Superior ground grip,187.38,3,2
+46,Adidas Nemeziz,Great for casual games,137.65,2,1
+47,Puma One,Perfect for professional players,174.56,3,1
+48,Nike Hypervenom,Superior ground grip,114.97,3,1
+49,Adidas X,Perfect for professional players,123.85,2,3
+50,Puma King,High performance football boots,215.16,3,1
+51,Nike Magista,High performance football boots,162.39,3,2
+52,Adidas Copa,Durable and long-lasting,172.35,1,1
+53,Puma Spirit,Excellent ball control,154.65,2,3
+54,Nike Vapor,Excellent ball control,112.27,2,2
+55,Adidas Glitch,Improved speed and agility,135.28,2,1
+56,Puma Tacto,Lightweight design,166.63,3,2
+57,Nike Phantom Venom,Durable and long-lasting,146.48,2,3
+58,Adidas Ace,Comfortable and stylish,145.82,2,1
+59,Puma EvoSpeed,Durable and long-lasting,180.25,2,1
+60,Nike Legend,Enhanced precision and stability,120.32,3,1
+61,Nike Mercurial,Lightweight design,133.68,1,3
+62,Adidas Predator,Comfortable and stylish,184.88,2,2
+63,Puma Future,Comfortable and stylish,202.98,1,1
+64,Nike Tiempo,Superior ground grip,94.4,2,1
+65,Nike Phantom,Enhanced precision and stability,92.93,2,1
+66,Adidas Nemeziz,Enhanced precision and stability,129.57,3,1
+67,Puma One,Great for casual games,157.25,1,2
+68,Nike Hypervenom,Improved speed and agility,84.71,3,3
+69,Adidas X,Superior ground grip,215.65,1,3
+70,Puma King,Perfect for professional players,124.94,3,2
+71,Nike Magista,High performance football boots,110.98,1,1
+72,Adidas Copa,Great for casual games,99.78,3,2
+73,Puma Spirit,Excellent ball control,93.62,1,2
+74,Nike Vapor,Enhanced precision and stability,217.77,1,2
+75,Adidas Glitch,Durable and long-lasting,116.45,1,2
+76,Puma Tacto,Durable and long-lasting,155.18,1,2
+77,Nike Phantom Venom,Improved speed and agility,142.71,2,2
+78,Adidas Ace,Durable and long-lasting,93.94,3,3
+79,Puma EvoSpeed,Durable and long-lasting,129.32,1,3
+80,Nike Legend,Great for casual games,145.69,1,2
+81,Nike Mercurial,Durable and long-lasting,197.76,2,2
+82,Adidas Predator,Durable and long-lasting,206.65,3,2
+83,Puma Future,Lightweight design,85.26,2,3
+84,Nike Tiempo,Durable and long-lasting,151.16,1,1
+85,Nike Phantom,Great for casual games,103.36,1,1
+86,Adidas Nemeziz,Superior ground grip,189.07,1,1
+87,Puma One,Excellent ball control,201.09,1,2
+88,Nike Hypervenom,Excellent ball control,137.6,1,1
+89,Adidas X,High performance football boots,99.6,2,2
+90,Puma King,Comfortable and stylish,84.65,1,1
+91,Nike Magista,Excellent ball control,217.56,3,3
+92,Adidas Copa,Enhanced precision and stability,132.26,3,3
+93,Puma Spirit,Great for casual games,138.81,3,2
+94,Nike Vapor,High performance football boots,87.08,1,1
+95,Adidas Glitch,Excellent ball control,131.17,1,1
+96,Puma Tacto,High performance football boots,82.33,3,1
+97,Nike Phantom Venom,Comfortable and stylish,112.3,1,1
+98,Adidas Ace,Perfect for professional players,187.09,3,1
+99,Puma EvoSpeed,Durable and long-lasting,212.18,3,3
+100,Nike Legend,Perfect for professional players,185.0,1,2

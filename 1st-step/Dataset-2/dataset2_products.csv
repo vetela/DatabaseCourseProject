@@ -1,0 +1,101 @@
+ProductID,ProductName,Description,Price,CategoryID,BrandID
+101,Nike Phantom,Lightweight and durable,189.22,3,1
+102,Adidas Nemeziz,Classic design,293.6,1,3
+103,Puma One,Comfortable fit,171.91,3,2
+104,Nike Mercurial,Perfect for all surfaces,210.81,1,2
+105,Adidas Predator,Perfect for all surfaces,182.27,2,3
+106,Puma Future,For ultimate control,293.21,2,3
+107,Nike Tiempo,Precision and power,140.61,1,2
+108,Adidas X,Enhanced grip,298.57,2,1
+109,Puma King,Top-notch performance,231.84,3,1
+110,Nike Hypervenom,For ultimate control,261.82,1,1
+111,Nike Phantom,Agility meets power,191.63,1,2
+112,Adidas Nemeziz,Perfect for all surfaces,277.46,1,2
+113,Puma One,For ultimate control,206.79,1,3
+114,Nike Mercurial,Perfect for all surfaces,215.46,2,3
+115,Adidas Predator,Agility meets power,283.5,1,2
+116,Puma Future,Perfect for all surfaces,162.83,1,2
+117,Nike Tiempo,Precision and power,245.23,2,2
+118,Adidas X,For the fastest players,261.05,1,1
+119,Puma King,Lightweight and durable,196.01,2,1
+120,Nike Hypervenom,Precision and power,197.51,2,3
+121,Nike Phantom,Perfect for all surfaces,268.28,3,2
+122,Adidas Nemeziz,For the fastest players,211.11,3,3
+123,Puma One,Classic design,153.98,1,3
+124,Nike Mercurial,For the fastest players,197.35,3,3
+125,Adidas Predator,Enhanced grip,155.17,2,2
+126,Puma Future,Lightweight and durable,145.08,1,3
+127,Nike Tiempo,For ultimate control,229.35,2,1
+128,Adidas X,Enhanced grip,284.23,2,2
+129,Puma King,Comfortable fit,140.09,1,2
+130,Nike Hypervenom,Comfortable fit,275.97,3,2
+131,Nike Phantom,Comfortable fit,193.16,3,2
+132,Adidas Nemeziz,For ultimate control,245.0,2,1
+133,Puma One,Enhanced grip,160.57,2,2
+134,Nike Mercurial,For the fastest players,197.8,1,1
+135,Adidas Predator,For ultimate control,140.73,1,1
+136,Puma Future,Enhanced grip,117.72,2,1
+137,Nike Tiempo,Agility meets power,133.14,3,1
+138,Adidas X,Agility meets power,200.6,3,3
+139,Puma King,Classic design,257.52,2,2
+140,Nike Hypervenom,Lightweight and durable,280.72,2,3
+141,Nike Phantom,Agility meets power,143.9,1,1
+142,Adidas Nemeziz,Lightweight and durable,247.63,2,3
+143,Puma One,Classic design,151.56,3,1
+144,Nike Mercurial,Perfect for all surfaces,212.84,2,1
+145,Adidas Predator,Precision and power,126.49,1,3
+146,Puma Future,Classic design,174.42,3,2
+147,Nike Tiempo,Comfortable fit,116.57,3,1
+148,Adidas X,Enhanced grip,201.15,1,2
+149,Puma King,Lightweight and durable,238.88,3,1
+150,Nike Hypervenom,Agility meets power,191.4,3,2
+151,Nike Phantom,Comfortable fit,172.25,3,3
+152,Adidas Nemeziz,For ultimate control,263.2,2,1
+153,Puma One,Lightweight and durable,109.16,1,3
+154,Nike Mercurial,Top-notch performance,177.57,2,2
+155,Adidas Predator,Classic design,191.7,1,2
+156,Puma Future,For ultimate control,247.15,3,2
+157,Nike Tiempo,Precision and power,281.93,2,2
+158,Adidas X,Comfortable fit,155.48,1,3
+159,Puma King,Perfect for all surfaces,263.55,1,3
+160,Nike Hypervenom,For the fastest players,231.26,1,1
+161,Nike Phantom,Precision and power,102.26,1,1
+162,Adidas Nemeziz,Top-notch performance,247.07,3,3
+163,Puma One,For the fastest players,220.7,3,2
+164,Nike Mercurial,For ultimate control,236.0,3,2
+165,Adidas Predator,For ultimate control,216.79,1,1
+166,Puma Future,Precision and power,214.7,3,1
+167,Nike Tiempo,For the fastest players,172.2,1,3
+168,Adidas X,Lightweight and durable,291.74,2,3
+169,Puma King,For ultimate control,297.39,1,2
+170,Nike Hypervenom,For ultimate control,177.43,1,3
+171,Nike Phantom,Top-notch performance,267.24,3,1
+172,Adidas Nemeziz,Comfortable fit,296.43,2,1
+173,Puma One,Lightweight and durable,217.07,3,3
+174,Nike Mercurial,Top-notch performance,234.19,2,3
+175,Adidas Predator,Agility meets power,117.25,3,2
+176,Puma Future,Precision and power,298.29,2,1
+177,Nike Tiempo,Enhanced grip,255.9,3,3
+178,Adidas X,Top-notch performance,298.87,2,2
+179,Puma King,For the fastest players,230.74,2,1
+180,Nike Hypervenom,For the fastest players,107.49,2,3
+181,Nike Phantom,For the fastest players,243.82,2,3
+182,Adidas Nemeziz,Perfect for all surfaces,237.62,3,3
+183,Puma One,Perfect for all surfaces,221.76,3,1
+184,Nike Mercurial,For ultimate control,121.24,3,2
+185,Adidas Predator,Agility meets power,156.14,2,2
+186,Puma Future,Lightweight and durable,255.24,3,2
+187,Nike Tiempo,Perfect for all surfaces,278.03,1,2
+188,Adidas X,Lightweight and durable,202.12,1,3
+189,Puma King,Comfortable fit,243.14,1,3
+190,Nike Hypervenom,Comfortable fit,115.56,3,3
+191,Nike Phantom,Lightweight and durable,223.06,3,2
+192,Adidas Nemeziz,Lightweight and durable,267.56,1,2
+193,Puma One,Enhanced grip,239.2,1,3
+194,Nike Mercurial,Lightweight and durable,211.01,1,2
+195,Adidas Predator,Classic design,272.24,3,2
+196,Puma Future,Agility meets power,249.06,1,3
+197,Nike Tiempo,Top-notch performance,152.91,3,3
+198,Adidas X,Classic design,299.95,1,1
+199,Puma King,Top-notch performance,214.75,2,2
+200,Nike Hypervenom,Top-notch performance,227.81,2,1
